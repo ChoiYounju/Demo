@@ -9,7 +9,7 @@ def load_df():
 
     p_class_options = df.Pclass.unique()
 
-    sex_options = df.Embarked.unique()
+    sex_options = df.Sex.unique()
 
     embark_options = df.Embarked.unique()
 
